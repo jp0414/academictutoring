@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="48" viewBox="0 0 232 48" fill="none">
+  <rect x="2" y="4" width="40" height="40" rx="10" fill="#1f6b4f"/>
+  <path d="M29 14A10.5 10.5 0 1 0 29 34" stroke="#f4f8f5" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M17.2 24H35.2" stroke="#f4f8f5" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="17.2" cy="24" r="2.6" fill="#f4f8f5"/>
+  <text x="54" y="25" font-family="'Public Sans', Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="-0.4" fill="#133a2c">Chalkline</text>
+  <text x="55" y="40" font-family="'Public Sans', Arial, sans-serif" font-size="10.5" font-weight="600" letter-spacing="2.2" fill="#52625a">TUTORING</text>
+</svg>

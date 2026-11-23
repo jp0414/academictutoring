@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="360" viewBox="0 0 440 360" fill="none">
+  <defs>
+    <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <path d="M0 0V6" stroke="#0e2c21" stroke-width="1.4" opacity=".35"/>
+    </pattern>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#06170f" flood-opacity=".38"/>
+    </filter>
+  </defs>
+  <g filter="url(#soft)">
+    <path d="M70 196h300v124a10 10 0 0 1-10 10H80a10 10 0 0 1-10-10V196Z" fill="#c9a86a"/>
+    <path d="M70 196h300v124a10 10 0 0 1-10 10H80a10 10 0 0 1-10-10V196Z" fill="url(#hatch)" opacity=".25"/>
+  </g>
+  <g transform="rotate(-4 220 160)" filter="url(#soft)">
+    <rect x="96" y="34" width="248" height="250" rx="6" fill="#fbfaf6"/>
+    <path d="M96 76h248" stroke="#2f4db0" stroke-width="1.6"/>
+    <path d="M178 76v208M268 76v208" stroke="#e2a3a0" stroke-width="1.2"/>
+    <g stroke="#d4dbd6" stroke-width="1">
+      <path d="M96 106h248M96 136h248M96 166h248M96 196h248M96 226h248M96 256h248"/>
+    </g>
+    <text x="112" y="62" font-family="'Courier Prime', 'Courier New', monospace" font-size="15" font-weight="700" fill="#133a2c">SESSION CARD</text>
+    <text x="112" y="96" font-family="'Courier Prime', 'Courier New', monospace" font-size="10" fill="#52625a">DATE</text>
+    <text x="190" y="96" font-family="'Courier Prime', 'Courier New', monospace" font-size="10" fill="#52625a">SUBJECT</text>
+    <text x="280" y="96" font-family="'Courier Prime', 'Courier New', monospace" font-size="10" fill="#52625a">TUTOR</text>
+    <g font-family="'Courier Prime', 'Courier New', monospace" font-weight="700" font-size="12" fill="#2f4db0">
+      <g transform="rotate(-3 136 124)"><rect x="106" y="112" width="62" height="19" rx="2" stroke="#2f4db0" stroke-width="1.4" fill="none"/><text x="111" y="126">04 NOV</text></g>
+      <g transform="rotate(2 136 154)" opacity=".9"><rect x="106" y="142" width="62" height="19" rx="2" stroke="#2f4db0" stroke-width="1.4" fill="none"/><text x="111" y="156">11 NOV</text></g>
+      <g transform="rotate(-1.5 136 184)" opacity=".8"><rect x="106" y="172" width="62" height="19" rx="2" stroke="#2f4db0" stroke-width="1.4" fill="none"/><text x="111" y="186">18 NOV</text></g>
+    </g>
+    <g font-family="'Courier Prime', 'Courier New', monospace" font-size="11.5" fill="#17231d">
+      <text x="188" y="126">Algebra II</text><text x="278" y="126">R. Santos</text>
+      <text x="188" y="156">SAT Verbal</text><text x="278" y="156">M. Cruz</text>
+      <text x="188" y="186">Physics</text><text x="278" y="186">R. Santos</text>
+    </g>
+  </g>
+  <path d="M70 232h300v88a10 10 0 0 1-10 10H80a10 10 0 0 1-10-10v-88Z" fill="#d8b97c"/>
+  <path d="M70 232h300" stroke="#a9884c" stroke-width="2"/>
+  <text x="96" y="274" font-family="'Public Sans', Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#5b4520">CHALKLINE TUTORING</text>
+  <path d="M96 290h150" stroke="#a9884c" stroke-width="1.4"/>
+  <g transform="translate(22 128) rotate(-18 360 120)">
+    <rect x="300" y="112" width="118" height="16" rx="2" fill="#f2c94c"/>
+    <path d="M300 112h118v5H300z" fill="#e0b23a"/>
+    <rect x="410" y="112" width="16" height="16" fill="#c9cfcb"/>
+    <rect x="424" y="112" width="12" height="16" rx="3" fill="#e58b8b"/>
+    <path d="M300 112l-22 8 22 8z" fill="#f1dcb5"/>
+    <path d="M285 117.4l-7 2.6 7 2.6z" fill="#17231d"/>
+  </g>
+</svg>
